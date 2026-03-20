@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/stockiq/static/css/main.a7f95e33.css",
+    "main.js": "/stockiq/static/js/main.4c9b317b.js",
+    "index.html": "/stockiq/index.html",
+    "main.a7f95e33.css.map": "/stockiq/static/css/main.a7f95e33.css.map",
+    "main.4c9b317b.js.map": "/stockiq/static/js/main.4c9b317b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a7f95e33.css",
+    "static/js/main.4c9b317b.js"
+  ]
+}

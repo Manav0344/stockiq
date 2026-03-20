@@ -4,7 +4,7 @@
 
 A production-grade, full-featured stock market dashboard built with **React 18**, complete authentication & authorization, real-time charts, IPO tracker, portfolio analytics, and more.
 
----
+---  Live Demo :-- https://manav0344.github.io/stockiq/
 
 ## 🚀 Quick Start
 
